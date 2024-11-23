@@ -13,6 +13,7 @@ public class User {
     private String lastname;
 
     public User() {
+    	//XXx
     }
 
     public int getId() {
